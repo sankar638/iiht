@@ -14,8 +14,14 @@ public class ArrayListDemo {
 		list.add("yogi");
 		list.add("hari");
 		list.add("raju");
+		list.add("jagga");
+		list.add("sai");
 		
-		list.add(2, "sai");
+		list.add(2, "surya");
+		list.add(5, "raghu");
+		list.remove(2);
+		//list.removeAll(list);
+		
 		
 		//System.out.println(list);
 		
